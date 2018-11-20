@@ -5,16 +5,16 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://frankliy.github.io/"/>
   <updated>2018-11-15T02:10:00.151Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://frankliy.github.io/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
     <title>测试</title>
-    <link href="http://yoursite.com/2018/11/15/first/"/>
-    <id>http://yoursite.com/2018/11/15/first/</id>
+    <link href="https://frankliy.github.io/first.html"/>
+    <id>https://frankliy.github.io/first.html</id>
     <published>2018-11-15T02:08:50.000Z</published>
     <updated>2018-11-15T02:10:00.151Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/11/14/hello-world/"/>
-    <id>http://yoursite.com/2018/11/14/hello-world/</id>
+    <link href="https://frankliy.github.io/hello-world.html"/>
+    <id>https://frankliy.github.io/hello-world.html</id>
     <published>2018-11-14T07:47:18.030Z</published>
     <updated>2018-11-14T07:47:18.030Z</updated>
     
