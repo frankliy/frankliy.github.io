@@ -1978,7 +1978,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff50ff;
+  background: #f25408;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3305,4 +3305,7 @@ pre .javascript .function {
 .post-block,
 .comments {
   background: rgba(255,255,255,0.6);
+}
+* {
+  cursor: url("https://i.loli.net/2018/11/23/5bf7ce4a2d76f.png"), auto !important;
 }
