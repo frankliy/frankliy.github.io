@@ -1978,7 +1978,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #5d7cff;
+  background: #69ffff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3308,4 +3308,7 @@ pre .javascript .function {
 }
 * {
   cursor: url("https://i.loli.net/2018/11/23/5bf7ce4a2d76f.png"), auto !important;
+}
+:active {
+  cursor: url("https://i.loli.net/2018/11/26/5bfb678f81771.png"), auto !important;
 }
